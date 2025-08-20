@@ -20,12 +20,12 @@ This lab is fully documented with **110+ screenshots** and clear step-by-step in
 
 ## 🛠 Requirements
 
-### 📅 Software Downloads
+### 📥 Software Downloads
 - 🔗 [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 - 🔗 [Windows Server 2025 ISO](https://www.microsoft.com/en-us/evalcenter/) *(Evaluation Center)*
 - 🔗 [Windows 11 ISO](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-11-enterprise)
 
-### 💾 System Requirements
+### ⚙️ System Requirements
 - Minimum: **4 GB RAM** (8 GB recommended)
 - At least **100 GB free disk space**
 - Basic knowledge of Windows and networking
@@ -38,7 +38,7 @@ This lab is fully documented with **110+ screenshots** and clear step-by-step in
 Step-by-step walkthrough to build your AD lab from scratch using **VirtualBox**.  
 Includes every step (1–110) with screenshots — from downloads to domain join.
 
-### 🎯 [Active Directory Tasks Walkthrough](./AD_TASKS.md)
+### 📖 [Active Directory Admin Playbook](./AD_TASKS.md)
 Practice real-world administration tasks:  
 - Create and manage OUs, users, groups  
 - Reset passwords & manage logon attempts  
