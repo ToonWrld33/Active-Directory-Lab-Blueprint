@@ -38,7 +38,7 @@ This lab is fully documented with **110+ screenshots** and clear step-by-step in
 Step-by-step walkthrough to build your AD lab from scratch using **VirtualBox**.  
 Includes every step (1–110) with screenshots — from downloads to domain join.
 
-### 📖 [Active Directory Admin Playbook](./AD_TASKS.md)
+### 📖 [Active Directory Admin Playbook](./Admin-Playbook.md)
 Practice real-world administration tasks:  
 - Create and manage OUs, users, groups  
 - Reset passwords & manage logon attempts  
