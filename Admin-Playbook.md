@@ -1,7 +1,7 @@
 # 📖 Active Directory Admin Playbook (Pied Piper Edition)
 
 This playbook documents essential Active Directory admin tasks inside your **Pied Piper Lab**.  
-All steps are paired with screenshots for a beginner-friendly, “dummy proof” walkthrough.  
+All steps are paired with screenshots for a beginner-friendly walkthrough.  
 
 ---
 
