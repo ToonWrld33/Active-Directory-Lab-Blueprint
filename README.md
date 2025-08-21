@@ -44,7 +44,7 @@ Practice real-world administration tasks:
 - Reset passwords & manage logon attempts  
 - Apply and test GPOs  
 
-### ⚡ [PowerShell Scripts](./scripts/)
+### ⚡ [PowerShell Scripts](./Scripts/README.md)
 Practical automation examples:  
 - Bulk create OUs, groups, and users from CSV  
 - Delegate rights (e.g., Helpdesk reset for Sales)  
